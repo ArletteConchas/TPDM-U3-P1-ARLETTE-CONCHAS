@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624164388260",
+    "firebase_url": "https://tpdmu3practica1arlette.firebaseio.com",
+    "project_id": "tpdmu3practica1arlette",
+    "storage_bucket": "tpdmu3practica1arlette.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624164388260:android:3ccbfae99faa553c",
+        "android_client_info": {
+          "package_name": "com.example.anyme.tpdm_u3_p2_arletteconchas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624164388260-sku84ras81vr4bt8i6j9jn1n93tgcb8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6kIpKvqtTgTE9KIEUbcHY-ecKld2t3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624164388260-sku84ras81vr4bt8i6j9jn1n93tgcb8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
